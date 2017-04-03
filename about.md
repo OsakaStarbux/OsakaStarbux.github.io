@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I was introduced to coding in primary school on a BBC micro with game type-ins written in BASIC.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This is a home for code projects that I'm not too embarrassed about and general boasting. Kevin will talk about himself in the third person like Elmo because résumés. Kevin likes making stuff from code. Particularly games and interactive books for iOS using SpriteKit and Swift.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+    import SpriteKit
+    
+
+# buzzwords
+
+
+* Industry standards
+* Passion
+* Agile
+* Senior
+* Lead
+* Experienced
+
+
+
+The github:
+{% include icon-github.html username="OsakaStarbux" %} /
+[github](https://github.com/OsakaStarbux)
