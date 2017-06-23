@@ -9,11 +9,15 @@
 title: Kevin Bradley
 email: hello@kevbradley.com
 description: > # this means to ignore newlines until "baseurl:"
-  Kevin Bradley. Making things in code. Swift, Ruby, Rails, p5.js
+    Making things in Swift, Ruby, Rails, p5.js
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://kevbradley.com" # the base hostname & protocol for your site
 twitter_username: OsakaStarbux
 github_username:  OsakaStarbux
 
 # Build settings
 markdown: kramdown
+gems:
+- jekyll-gist
+gist:
+  noscript: false
