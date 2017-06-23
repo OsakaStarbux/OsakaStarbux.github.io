@@ -6,7 +6,7 @@ categories: projects SpriteKit Swift
 youtubeId: OjlaNGnrmX4
 ---
 
-{% youtube OjlaNGnrmX4 %}
+
 
 ***
 

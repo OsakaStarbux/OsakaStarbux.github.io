@@ -6,7 +6,7 @@ categories: projects SpriteKit Swift
 youtubeId: 9hpXiuUnKQg
 ---
 
-{% youtube 9hpXiuUnKQg %}
+
 
 
 ***

@@ -6,7 +6,7 @@ categories: projects SpriteKit Swift
 youtubeId: kxHroFedbBU
 ---
 
-{% youtube kxHroFedbBU %}
+
 
 ***
 
