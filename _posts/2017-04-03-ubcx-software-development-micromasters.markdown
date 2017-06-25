@@ -7,7 +7,6 @@ youtubeId:
 ---
 
 
-
 ***
 
 I'm currently pursuing the UBCx Software Development MicroMasters. I'm learning systematic program design and really enjoying it. The key things I've learned are:

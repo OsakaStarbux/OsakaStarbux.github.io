@@ -6,7 +6,7 @@ categories: projects SpriteKit Swift
 youtubeId: OjlaNGnrmX4
 ---
 
-
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ***
 
