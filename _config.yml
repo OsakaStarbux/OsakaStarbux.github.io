@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Making things in Swift, Ruby, Rails, p5.js
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kevbradley.com" # the base hostname & protocol for your site
-twitter_username: OsakaStarbux
+twitter_username: Osaka_Starbux
 github_username:  OsakaStarbux
 
 # Build settings
