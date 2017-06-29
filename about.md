@@ -12,7 +12,7 @@ Parse used to be a super-easy backend for mobile and web apps but sadly it was r
 
 These days, I make a lot of apps to entertain my 2 year-old son on long journeys and make his favourite paper books come alive. I have also discovered the joys of Javascript with the help of P5.js.
 
-I'm working towards the UBCx Software Development MicroMasters at the moment, learning systematic program design. 
+I'm working towards the UBCx Software Development MicroMasters at the moment, learning systematic program design.
 
 This website is a home for project write-ups and videos of them in action. I love making stuff from code. Particularly games and interactive books for iOS using SpriteKit and Swift.
 
@@ -21,5 +21,4 @@ import SpriteKit
 {% endhighlight %}    
 
 The github:
-{% include icon-github.html username="OsakaStarbux" %} /
-[github](https://github.com/OsakaStarbux)
+{% include icon-github.html username="OsakaStarbux" %} 
