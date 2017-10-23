@@ -13,7 +13,7 @@ I've just completed How to Code: Simple Data, the first course of the UBCx Softw
 
 Here's my shiny new certificate:
 
-https://courses.edx.org/certificates/9e7c770a78ff45cea008b2db58fadbd3
+[VERIFIED CERTIFICATE Issued September 28, 2017 VALID CERTIFICATE ID 9e7c770a78ff45cea008b2db58fadbd3](https://courses.edx.org/certificates/9e7c770a78ff45cea008b2db58fadbd3)
 
 I've just started the second course, How to Code: Complex Data. Like the first course, it uses BSL in Dr Racket and a functional paradigm. The first lecture is mutual reference in data definitions and mutual recursion in functions that work on, for example, arbitrary arity trees. I get to create my own little file system.
 
