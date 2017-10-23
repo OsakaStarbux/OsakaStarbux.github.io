@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Completed UBCx How to Code: Simple Data"
-date:   2017-04-03 12:00:56 +0800
+date:   2017-10-23 11:29:56 +0800
 categories: learning
 youtubeId:
 ---
