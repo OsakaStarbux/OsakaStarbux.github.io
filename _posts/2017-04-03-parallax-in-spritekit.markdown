@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parallax Scrolling in SpriteKit"
-date:   2017-04-03 12:00:56 +0800
+date:   2017-02-13 12:00:56 +0800
 categories: projects SpriteKit Swift
 youtubeId: OjlaNGnrmX4
 ---
