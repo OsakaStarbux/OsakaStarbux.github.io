@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space Invaders in SpriteKit"
-date:   2017-04-03 12:00:56 +0800
+date:   2017-04-01 12:00:56 +0800
 categories: projects SpriteKit Swift
 youtubeId: kxHroFedbBU
 ---
