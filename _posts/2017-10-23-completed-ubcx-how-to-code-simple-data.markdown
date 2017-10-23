@@ -9,7 +9,7 @@ youtubeId:
 
 ***
 
-I've just completed How to Code: Simple Data, the first course of the UBCx Software Development MicroMasters! It's one of six courses in systematic program design. I decided to get a verified certificate and I my final project was graded by the staff at UBC. I got full marks and some really great staff comments.
+I've just completed How to Code: Simple Data, the first course of the UBCx Software Development MicroMasters! It's one of six courses in systematic program design. I decided to get a verified certificate and my final project was graded by the staff at UBC. I got full marks and some really great staff comments.
 
 Here's my shiny new certificate:
 
