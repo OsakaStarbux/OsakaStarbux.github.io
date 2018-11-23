@@ -38,4 +38,4 @@ An example of this might be a "pause menu" in a game or an AI state for a non-pl
 
 One solution is to use a [stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)). Stacks are Last In - First Out structures just like a stack of plates at a cafeteria. To solve our problem we can use a stack of states instead of a property. When we enter a state we add it to the top of the stack and when we want to temporarily enter another state we add that state to the top. When we've finished our detour we can pop the temporary state off the stack and our previous state will be waiting for us.
 
-For an example of state machine in action check out my Ant Brain!
+For an example of state machine in action check out my [Ant Brain](https://github.com/OsakaStarbux/Finite-State-Machine-Ant-Brain)!
