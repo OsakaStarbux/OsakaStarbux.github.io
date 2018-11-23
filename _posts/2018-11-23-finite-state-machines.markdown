@@ -26,6 +26,32 @@ This allows us to stop holding state in our heads and mangaing it with global va
 
 In practice, this might look like a state machine object whose currentState property holds a reference to one of a collection of State objects. The interface for our state machine has methods for setting the state and updating the state machine. This update method just delegates the call to the currentState's update method which means we only ever run the code in the State object itself.
 
+```javascript
+/*
+Build a state machine
+Use a wrapper class and hold a reference one of a collection of state classes.
+*/
+
+function StateMachine() {
+  // initialize the currentState property with the initial state
+  this.currentState = new InitialState();
+  
+  this.set_state = function(newState) {
+    this.currentState = newState;
+  };
+
+  this.update = function() {
+    /* Client calls to the wrapper function,
+     i.e stateMachineInstance.update(),
+     get delegated to the current state object.
+     We need a reference back to the wrapper
+     so we can change its properties, e.g. currentState
+    */
+    this.currentState.update(this); // pass the wrapper class "this"
+  };
+}
+```
+
 In Javascript we can pass "this" as an argument into the call to the State object's update method so we have a reference back to the state machine. We'll need that, because it will be the job of the current state to decide when it's time to transition to the next state and which state it will be. 
 
 The state, as we've seen already, has its own update method which contains our actual code for getting things done, like moving stuff around the screen or showing a menu. It also has some flow control to decide which state will come next and if we are ready to make the transition. Has our character killed the monster? Transition to the next level. Has she taken too much damage? Transition to Game Over.
