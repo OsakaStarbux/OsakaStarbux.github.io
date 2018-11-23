@@ -54,7 +54,60 @@ function StateMachine() {
 
 In Javascript we can pass "this" as an argument into the call to the State object's update method so we have a reference back to the state machine. We'll need that, because it will be the job of the current state to decide when it's time to transition to the next state and which state it will be. 
 
-The state, as we've seen already, has its own update method which contains our actual code for getting things done, like moving stuff around the screen or showing a menu. It also has some flow control to decide which state will come next and if we are ready to make the transition. Has our character killed the monster? Transition to the next level. Has she taken too much damage? Transition to Game Over.
+```javascript
+function InitialState() {
+  this.update = function(wrapper) {
+    // do someething
+    
+    // use a conditionals to decide:
+    // - when to move to another state
+    // - which state
+    if (someCondition) {
+      wrapper.set_state(new SecondState());
+    }
+
+    if (someOtherCondition) {
+      wrapper.set_state(new ThirdState());
+    }
+  };
+}
+
+function SecondState() {
+  this.update = function(wrapper) {
+    // do someething
+    
+    // use a conditionals to decide:
+    // - when to move to another state
+    // - which state
+    if (someCondition) {
+      wrapper.set_state(new InitalState());
+    }
+
+    if (someOtherCondition) {
+      wrapper.set_state(new ThirdState());
+    }
+  };
+}
+
+function ThirdState() {
+  this.update = function(wrapper) {
+    // do someething
+    
+    // use a conditionals to decide:
+    // - when to move to another state
+    // - which state
+    if (someCondition) {
+      wrapper.set_state(new SecondState());
+    }
+
+    if (someOtherCondition) {
+      wrapper.set_state(new InitialState());
+    }
+  };
+}
+```
+
+The state, as we can see, has its own update method which contains our actual code for getting things done, like moving stuff around the screen or showing a menu. It also has some flow control to decide which state will come next and if we are ready to make the transition. Has our character killed the monster? Transition to the next level. Has she taken too much damage? Transition to Game Over.
 
 So, state machines are very nice for managing state and reducing your cognitive load. They're less brittle and less prone to bugs. They help us reason about state more easily. Based on the current state and some input or condition we can transition to the next.
 
