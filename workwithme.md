@@ -4,11 +4,6 @@ title: Work With Me
 permalink: /workwithme/
 ---
 
-{% highlight swift %}
-var available:Bool
-available = true
-{% endhighlight %}    
+Are you looking for someone whose passion is to code? Someone who is fascinated by Computer Science? Someone who enjoys problem solving? Someone always trying to expand their knowledge of different programming languages and paradigms? [A community builder](http://meetu.ps/c/2hnbb/pKWYM/f) who loves to share their passion with others?
 
-I'm **_available_** for projects.
-
-I'm especially interested in working with authors and artists to create 2D animated apps in SpriteKit based on books or comics.
+Let me know!
