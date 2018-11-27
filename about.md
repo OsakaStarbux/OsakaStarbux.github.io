@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I was introduced to coding in primary school on a BBC micro with game type-ins written in BASIC. I didn't really understand what I was doing and there was nobody who knew enough to mentor me. I drifted away from programming but stayed interested in computers and the internet. I learned HTML from `View Source` and made some web pages. I built a computer from bits of old computers and tinkered with linux. Lots of nothing happened.
+I was introduced to coding in primary school on a BBC micro with game type-ins written in BASIC ([Go get the PDFs for free from Usborne](https://usborne.com/browse-books/features/computer-and-coding-books/)). I didn't really understand what I was doing and there was nobody who knew enough to mentor me. I drifted away from programming but stayed interested in computers and the internet. I learned HTML from `View Source` and made some web pages. I built a computer from bits of old computers and tinkered with linux. Lots of nothing happened.
 
 In 2013, inspired by what?, I found Codecademy and coded every day. I met Javascript and hated it then I met Ruby and loved it. I wanted to make apps for iPhone and iPad but Objective C looked scary and incomprehensible. Luckily, 2014 would be the summer of Swift and I got to work learning it. I gave myself 6 months to get an app in the app store and just managed it with only few hours a week to myself before work. Swift was much friendlier but I still had general concepts to learn like OOP and MVC.
 
