@@ -18,5 +18,3 @@ This website is a home for project write-ups and videos of them in action. I lov
 
 The github:
 {% include icon-github.html username="OsakaStarbux" %} 
-
-{{ "now" | date: "%Y" - 2015}}
