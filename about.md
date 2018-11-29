@@ -14,7 +14,9 @@ These days, I make a lot of apps to entertain my 3 year-old son on long journeys
 
 I'm working towards the [UBCx Software Development MicroMasters](https://www.youtube.com/watch?v=Un95n-pNPiw) at the moment, learning systematic program design.
 
-This website is a home for project write-ups and videos of them in action. I love making stuff from code. 
+This website is a way to get to know me, a home for blog posts about my learning journey, and project write-ups with videos of them in action. 
+
+Let's make stuff with code!
 
 The github:
 {% include icon-github.html username="OsakaStarbux" %} 
