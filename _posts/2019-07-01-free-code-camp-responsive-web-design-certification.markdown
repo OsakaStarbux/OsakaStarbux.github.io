@@ -6,7 +6,7 @@ categories: web development
 
 ---
 
-
+![image](/assets/fccRespWebDesCert.png)
 ***
 
  I recently went back to [FreeCodeCamp](https://www.freecodecamp.org) and got my [Responsive Web Design Certification](https://www.freecodecamp.org/certification/osakastarbux/responsive-web-design).
