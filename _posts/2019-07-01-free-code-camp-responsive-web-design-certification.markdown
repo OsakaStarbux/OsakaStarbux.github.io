@@ -13,6 +13,6 @@ categories: web development
  
  I had just finished a short course on React over at [Scrimba](https://scrimba.com/g/glearnreact) and was looking for more learning materials when I remembered that freeCodeCamp had switched from jQuery to React since I had last used their courses. I saw that I had finished quite a few units and the new materials looked very nice and updated. It made me want to complete the unfinished units and get started on the new courses. So that's what I did. I got my certificate for the Responsive Web Design course. 
  
- After doing some computer science courses it was the CSS and responsive layouts that were most challenging for me but using flexbox and CSS Grid felt much better than aything I'd used before.
+ After doing some computer science courses it was the CSS and responsive layouts that were most challenging for me but using flexbox and CSS Grid felt much better than anything I'd used before.
  
  Now I'm getting started on the Javascript Algorithms And Data Structures Certification. 
