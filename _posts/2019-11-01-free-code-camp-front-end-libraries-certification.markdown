@@ -7,8 +7,10 @@ categories: web development
 ---
 
 ![image](/assets/FrontEndCert.png)
-***
 
-I just got my [Front End Libraries Certification](https://www.freecodecamp.org/certification/osakastarbux/front-end-libraries).
 
-I used React with classes for some and React Hooks for others. Next is Data Visualisation with D3.
+I just got my [Front End Libraries Certification](https://www.freecodecamp.org/certification/osakastarbux/front-end-libraries) from [freeCodeCamp](https://www.freecodecamp.org). The projects are fun to build. Especially the Calculator App and the Pomodoro Clock.
+
+I used React with classes for some and React Hooks for others. For some I took care of state with Redux and some with the useState hook.
+
+The next certification is for Data Visualisation. 
