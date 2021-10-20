@@ -6,7 +6,7 @@ categories: python cryptography
 
 ---
 
-![image](/assets/sample.png)
+![image](/assets/pexels-cottonbro-7319085.jpg)
 
 
 Recently, I read The Code Book by Simon Singh. It covers the history and methods of cryptography.
