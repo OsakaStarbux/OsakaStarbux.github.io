@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cracking classic ciphers
+title:  Cracking classic ciphers in Python
 date:   2021-10-10 12:30:00 +0800
 categories: python cryptography
 
@@ -24,4 +24,4 @@ may be used for a single letter. So this cipher can be hard to crack without kno
 too time-consuming to number many of the words of a suspected key text and prone to counting errors.
 Likewise, checking a large number of suspected key texts is a huge task. Using a computer is the best strategy.
 
-[This Github repo](https://github.com/OsakaStarbux/book-cipher) is a starting point to build out some tools for decrypting classic ciphers starting with book ciphers.
+[This GitHub repo](https://github.com/OsakaStarbux/book-cipher) is a starting point to build out some tools for decrypting classic ciphers starting with book ciphers.
