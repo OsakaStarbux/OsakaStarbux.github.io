@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Cracking classic ciphers”
+title:  Cracking classic ciphers
 date:   2021-10-10 12:30:00 +0800
 categories: python cryptography
 
